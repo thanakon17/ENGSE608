@@ -61,11 +61,12 @@
 
 |                    Preview                    | Component Details                                                                                                                                  |
 | :-------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-|<img src="<img alt="1" src="https://github.com/user-attachments/assets/8d3ecd72-0f3d-4f5b-ae7c-1736bc9a87c4" width="100">   | **2. Actions (หน้า 2)**<br>• ElevatedButton<br>• OutlinedButton<br>• TextButton<br>• IconButton<br>• FAB                          |
-|<img src="screenshots/3.png" width="100">   | **3. Communication (หน้า 3)**<br>• SnackBar<br>• AlertDialog<br>• SimpleDialog<br>• ModalBottomSheet                              |
-|<img src="screenshots/4.png" width="100">   | **4. Containment (หน้า 4)**<br>• Card (พร้อม elevation)<br>• Container (พร้อม gradient & shadow)<br>• ListTile<br>• CircleAvatar              |
-|<img src="screenshots/5.png" width="100">   | **5. Selection (หน้า 5)**<br>• Checkbox / CheckboxListTile<br>• Switch / SwitchListTile<br>• Radio / RadioListTile<br>• FilterChip<br>• Chip |
-|<img src="screenshots/6.png" width="100">   | **6. Text Inputs (หน้า 6)**<br>• TextField<br>• TextFormField<br>• Form Validation<br>• Password Field (พร้อม show/hide) <br>• MultilineTextField |
+|<img alt="1" src="https://github.com/user-attachments/assets/86b870ab-22fa-42ec-a689-27a6ff32b474" width="100">   | **1. Navigation (หน้า 1)**<br>• AppBar<br>• Card<br>• Icon<br>• Navigation Menu |
+|<img alt="2" src="https://github.com/user-attachments/assets/e30ad462-4d88-44de-a06d-c9543dd71cf9" width="100">   | **2. Actions (หน้า 2)**<br>• ElevatedButton<br>• OutlinedButton<br>• TextButton<br>• IconButton<br>• FAB |
+|<img alt="3" src="https://github.com/user-attachments/assets/8d3c3f3f-a2f5-4c35-8797-48305d2675ed" width="100">   | **3. Communication (หน้า 3)**<br>• SnackBar<br>• AlertDialog<br>• SimpleDialog<br>• ModalBottomSheet |
+|<img alt="4" src="https://github.com/user-attachments/assets/d3fedec3-288a-4351-9d43-e8bd6a30ed0a" width="100">   | **4. Containment (หน้า 4)**<br>• Card (พร้อม elevation)<br>• Container (พร้อม gradient & shadow)<br>• ListTile<br>• CircleAvatar |
+|<img alt="5" src="https://github.com/user-attachments/assets/620b0a9b-590c-4ebf-aad4-6b2162f4d001" width="100">   | **5. Selection (หน้า 5)**<br>• Checkbox / CheckboxListTile<br>• Switch / SwitchListTile<br>• Radio / RadioListTile<br>• FilterChip<br>• Chip |
+|<img alt="6" src="https://github.com/user-attachments/assets/6a57bb54-da16-4cde-a72c-8752c614900a" width="100">   | **6. Text Inputs (หน้า 6)**<br>• TextField<br>• TextFormField<br>• Form Validation<br>• Password Field (พร้อม show/hide) <br>• MultilineTextField |
 
 ### 2. Navigation & Routing
 
