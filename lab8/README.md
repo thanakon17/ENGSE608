@@ -61,8 +61,8 @@
 
 |                    Preview                    | Component Details                                                                                                                                  |
 | :-------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-|<img src="screenshots/1.jpg" width="160">   | **1. Navigation (หน้า 1)**<br>• AppBar<br>• Card<br>• Icon<br>• Navigation Menu                                                   |
-|<img src="screenshots/2.png" width="100">   | **2. Actions (หน้า 2)**<br>• ElevatedButton<br>• OutlinedButton<br>• TextButton<br>• IconButton<br>• FAB                          |
+|<img src="<img width="713" height="1472" alt="1" src="https://github.com/user-attachments/assets/8d3ecd72-0f3d-4f5b-ae7c-1736bc9a87c4" />
+" width="100">   | **2. Actions (หน้า 2)**<br>• ElevatedButton<br>• OutlinedButton<br>• TextButton<br>• IconButton<br>• FAB                          |
 |<img src="screenshots/3.png" width="100">   | **3. Communication (หน้า 3)**<br>• SnackBar<br>• AlertDialog<br>• SimpleDialog<br>• ModalBottomSheet                              |
 |<img src="screenshots/4.png" width="100">   | **4. Containment (หน้า 4)**<br>• Card (พร้อม elevation)<br>• Container (พร้อม gradient & shadow)<br>• ListTile<br>• CircleAvatar              |
 |<img src="screenshots/5.png" width="100">   | **5. Selection (หน้า 5)**<br>• Checkbox / CheckboxListTile<br>• Switch / SwitchListTile<br>• Radio / RadioListTile<br>• FilterChip<br>• Chip |
