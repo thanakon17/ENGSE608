@@ -61,7 +61,7 @@
 
 |                    Preview                    | Component Details                                                                                                                                  |
 | :-------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-|<img src="screenshots/1.jpg" width="100">   | **1. Navigation (หน้า 1)**<br>• AppBar<br>• Card<br>• Icon<br>• Navigation Menu                                                   |
+|<img src="screenshots/1.jpg" width="160">   | **1. Navigation (หน้า 1)**<br>• AppBar<br>• Card<br>• Icon<br>• Navigation Menu                                                   |
 |<img src="screenshots/2.png" width="100">   | **2. Actions (หน้า 2)**<br>• ElevatedButton<br>• OutlinedButton<br>• TextButton<br>• IconButton<br>• FAB                          |
 |<img src="screenshots/3.png" width="100">   | **3. Communication (หน้า 3)**<br>• SnackBar<br>• AlertDialog<br>• SimpleDialog<br>• ModalBottomSheet                              |
 |<img src="screenshots/4.png" width="100">   | **4. Containment (หน้า 4)**<br>• Card (พร้อม elevation)<br>• Container (พร้อม gradient & shadow)<br>• ListTile<br>• CircleAvatar              |
