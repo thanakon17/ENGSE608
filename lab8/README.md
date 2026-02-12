@@ -61,7 +61,8 @@
 
 |                    Preview                    | Component Details                                                                                                                                  |
 | :-------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 203815.png" width="100">   | **1. Navigation (หน้า 1)**<br>• AppBar<br>• Card<br>• Icon<br>• Navigation Menu                                                                    |
+|  <img src="<img width="713" height="1472" alt="Screenshot 2026-02-12 203815" src="https://github.com/user-attachments/assets/29edb0e2-37a4-4a56-b9ef-df3f778aa5d5" />
+" width="100">   | **1. Navigation (หน้า 1)**<br>• AppBar<br>• Card<br>• Icon<br>• Navigation Menu                                                                    |
 |    <img src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 203837.png" width="100">    | **2. Actions (หน้า 2)**<br>• ElevatedButton<br>• OutlinedButton<br>• TextButton<br>• IconButton<br>• FAB                                           |
 | <img src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 203851.png" width="100"> | **3. Communication (หน้า 3)**<br>• SnackBar<br>• AlertDialog<br>• SimpleDialog<br>• ModalBottomSheet                                               |
 |   <img src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 203902.png" width="100">   | **4. Containment (หน้า 4)**<br>• Card (พร้อม elevation)<br>• Container (พร้อม gradient & shadow)<br>• ListTile<br>• CircleAvatar                   |
