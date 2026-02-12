@@ -45,8 +45,8 @@
 
 ## ตัวอย่างการทำงานของระบบ
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/436e9d1d-1d1e-4439-97f9-276d2b1f29bb" />
+<img width="500" height="500" alt="image" src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 165416.png" />
 
 
 ## ผู้จัดทำ
-67543210031-0 ธนภัทร นุกูล
+67543210030-2 ธนกร ผดุงศิลป์
