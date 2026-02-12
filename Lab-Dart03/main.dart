@@ -37,7 +37,7 @@ class Product {
   }
 
   void showInfo() {
-    print("----------------");
+    print("---------------------------------");
     print("ID: $_id");
     print("Name: $name");
     print("Price: $_price");
@@ -86,20 +86,20 @@ class FoodProduct extends Product {
 
 void main() {
   var p1 = Product(
-    id: "P001",
+    id: "A001",
     name: "Notebook",
     price: 50,
   );
 
   var d1 = DigitalProduct(
-    id: "D001",
+    id: "A002",
     name: "E-Book Flutter",
     price: 199,
     fileSizeMB: 120.5,
   );
 
   var f1 = FoodProduct(
-    id: "F001",
+    id: "A003",
     name: "Milk",
     price: 25,
     expireDate: "2026-01-10",
