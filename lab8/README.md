@@ -61,13 +61,12 @@
 
 |                    Preview                    | Component Details                                                                                                                                  |
 | :-------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img src="<img width="713" height="1472" alt="Screenshot 2026-02-12 203815" src="https://github.com/user-attachments/assets/29edb0e2-37a4-4a56-b9ef-df3f778aa5d5" />
-" width="100">   | **1. Navigation (หน้า 1)**<br>• AppBar<br>• Card<br>• Icon<br>• Navigation Menu                                                                    |
-|    <img src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 203837.png" width="100">    | **2. Actions (หน้า 2)**<br>• ElevatedButton<br>• OutlinedButton<br>• TextButton<br>• IconButton<br>• FAB                                           |
-| <img src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 203851.png" width="100"> | **3. Communication (หน้า 3)**<br>• SnackBar<br>• AlertDialog<br>• SimpleDialog<br>• ModalBottomSheet                                               |
-|   <img src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 203902.png" width="100">   | **4. Containment (หน้า 4)**<br>• Card (พร้อม elevation)<br>• Container (พร้อม gradient & shadow)<br>• ListTile<br>• CircleAvatar                   |
-|   <img src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 203913.png" width="100">   | **5. Selection (หน้า 5)**<br>• Checkbox / CheckboxListTile<br>• Switch / SwitchListTile<br>• Radio / RadioListTile<br>• FilterChip<br>• Chip       |
-|   <img src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 203924.png" width="100">   | **6. Text Inputs (หน้า 6)**<br>• TextField<br>• TextFormField<br>• Form Validation<br>• Password Field (พร้อม show/hide) <br>• Multiline TextField |
+|<img src="screenshots/1.jpg" width="100">   | **1. Navigation (หน้า 1)**<br>• AppBar<br>• Card<br>• Icon<br>• Navigation Menu                                                   |
+|<img src="screenshots/2.jpg" width="100">   | **2. Actions (หน้า 2)**<br>• ElevatedButton<br>• OutlinedButton<br>• TextButton<br>• IconButton<br>• FAB                          |
+|<img src="screenshots/3.jpg" width="100">   | **3. Communication (หน้า 3)**<br>• SnackBar<br>• AlertDialog<br>• SimpleDialog<br>• ModalBottomSheet                              |
+|<img src="screenshots/4.jpg" width="100">   | **4. Containment (หน้า 4)**<br>• Card (พร้อม elevation)<br>• Container (พร้อม gradient & shadow)<br>• ListTile<br>• CircleAvatar              |
+|<img src="screenshots/5.jpg" width="100">   | **5. Selection (หน้า 5)**<br>• Checkbox / CheckboxListTile<br>• Switch / SwitchListTile<br>• Radio / RadioListTile<br>• FilterChip<br>• Chip |
+|<img src="screenshots/6.jpg" width="100">   | **6. Text Inputs (หน้า 6)**<br>• TextField<br>• TextFormField<br>• Form Validation<br>• Password Field (พร้อม show/hide) <br>• MultilineTextField |
 
 ### 2. Navigation & Routing
 
