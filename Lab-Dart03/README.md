@@ -45,8 +45,7 @@
 
 ## ตัวอย่างการทำงานของระบบ
 
-<img width="500" height="500" alt="image" src="c:\Users\yuzuh\OneDrive\Pictures\Screenshots 1\Screenshot 2026-02-12 165416.png" />
-
+<img width="437" height="549" alt="Screenshot 2026-02-12 165416" src="https://github.com/user-attachments/assets/79a60276-6d70-4654-902f-199787c043bc" />
 
 ## ผู้จัดทำ
 67543210030-2 ธนกร ผดุงศิลป์
