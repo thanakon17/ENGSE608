@@ -115,4 +115,8 @@ void main() {
   for (var item in products) {
     item.showInfo();
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ee2bf32145ccd502dc83768b2efac98b4c85566c
